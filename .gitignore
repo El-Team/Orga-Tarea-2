@@ -1,0 +1,7 @@
+*.swp
+*.swn
+*.swo
+*.class
+.fuse_hidden*
+.vscode/
+
